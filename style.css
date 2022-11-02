@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} 
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 5px;
+}
+
+.header img {
+    width: 3%;
+    margin-left: 210px;
+}
+
+.header p {
+    color: black;
+    font-size: 18px;
+    margin-right: 400px;
+}
+
+.header nav a {
+    color: #18471B;
+    text-decoration: none;
+    font-size: 14px;
+    margin: 15px;
+}
+
+.header nav .contactusbtn {
+    border: solid 1px #18471B;
+    border-radius: 6px;
+    padding: 10px 30px;
+    
+}
+
+.header nav .booknowbtn {
+    background-color: #18471B;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 8px;
+    margin-left: 1px;
+    margin-right: 50px;
+}
