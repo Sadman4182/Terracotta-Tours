@@ -96,3 +96,25 @@
 .section4 .winnerof2022img {
     height: 254px;
 }
+
+.section5 {
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+   background-color: #F7B180;
+   margin-top: 30px;
+}
+
+.section5 img {
+    height: 440px;
+    width: 750px;
+    padding: 50px 90px;
+}
+
+.section5 h1 {
+    font-size: 20px;
+}
+
+.section5 p {
+    margin-right: 110px;
+}
