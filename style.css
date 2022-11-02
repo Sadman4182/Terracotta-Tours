@@ -44,3 +44,38 @@
     margin-left: 1px;
     margin-right: 50px;
 }
+
+
+.section2 img {
+    width: 100%;
+}
+
+
+.section3 {
+    margin-top: 20px;
+    margin-left: 50px;
+}
+
+.section3 .adventure {
+    font-size: 26px;
+    margin-bottom: 10px;
+}
+
+.section3 .bold {
+    font-weight: bold;
+    margin-bottom: 8px;
+}
+
+.section3 div {
+    color: rgba(0, 0, 0, 0.8);
+    font-size: 18px;
+}
+
+.section3 a {
+    text-decoration: none;
+    color: #18471B;
+    border: 1px solid black;
+    border-radius: 6px;
+    padding: 5px 20px;
+    font-size: 10px;
+}
