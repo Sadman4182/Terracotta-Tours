@@ -79,3 +79,20 @@
     padding: 5px 20px;
     font-size: 10px;
 }
+
+.section4 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 100px;
+    margin-left: 100px;
+}
+
+.section4 .owlimg {
+    height: 248px;
+    margin-left: 160px;
+}
+
+.section4 .winnerof2022img {
+    height: 254px;
+}
