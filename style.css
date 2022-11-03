@@ -118,3 +118,50 @@
 .section5 p {
     margin-right: 110px;
 }
+
+.section6 .trips {
+   font-size: 25px;
+   margin-top: 90px;
+}
+
+.section6 p {
+    margin-bottom: 30px;
+} 
+
+.section6 {
+    margin-left: 60px;
+}
+
+.section6 main {
+    display: flex;
+    justify-content: space-between;
+    margin-right: 10px;
+}
+
+.section6 main img {
+    height: 200px;
+    width: 340px;  
+}
+
+.section6 main h3 {
+    margin-top: 50px;
+    margin-left: 40px;
+}
+
+.section6 main p {
+    margin-top: 20px;
+    margin-left: 40px;
+}
+
+.section6 main .card1 {
+    border: 1px solid rgba(0, 0, 0, 0.5);
+}
+
+.section6 main .card2 {
+    border: 1px solid rgba(0, 0, 0, 0.5);
+}
+
+.section6 main .card3 {
+    border: 1px solid rgba(0, 0, 0, 0.5);
+}
+
